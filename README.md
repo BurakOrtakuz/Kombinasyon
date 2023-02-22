@@ -1,0 +1,2 @@
+# Kombinasyon
+Kombinasyon işlemi
